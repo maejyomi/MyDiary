@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">My Diary</string>
+    <string name="title">My Diary</string>
+    <string name="input">여행지 입력</string>
+    <string name="list">여행지 목록</string>
+    <string name="write_title">일기입력</string>
+    <string name="name">이름</string>
+    <string name="explanation">설명</string>
+    <string name="latitude">위도</string>
+    <string name="longitude">경도</string>
+    <string name="image_upload">사진 업로드</string>
+    <string name="write_button">입력</string>
+    <string name="list_title">여행목록</string>
+    <string name="read_title">여행일기</string>
+    <string name="map_button">지도</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
